@@ -5,8 +5,8 @@
 
 <h2>📝 Desafio:</h2>
 <p>
-  Criar um server com NodeJs.
-  Entender o que é o NodeJs
+  Criar um server com NodeJs. <br>
+  Entender o que é o NodeJs <br>
   E como o NodeJs é utilizado
 </p>
 
